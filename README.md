@@ -2,13 +2,13 @@
 
 [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
 
-Utilizar Copilot e Microsoft Graph API para distribuição de mensagens através de um agente de IA para:
+Utilizar Copilot e Microsoft Graph API para distribuição de mensagens através de um agente de IA e:
 
     -Enumeração de usuários
 
     -Criação automática de chats 1:1
 
-    -Envio programático de mensagens
+    -Envio programado de mensagens
 
     -Integração com agentes conversacionais (compatíveis com o Microsoft Teams)
 
