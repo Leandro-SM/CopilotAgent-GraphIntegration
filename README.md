@@ -4,15 +4,15 @@
 
 Utilizar Copilot e Microsoft Graph API para distribuição de mensagens através de um agente de IA
 
-  Enumeração de usuários
+    -Enumeração de usuários
 
-  Criação automática de chats 1:1
+    -Criação automática de chats 1:1
 
-  Envio programático de mensagens
+    -Envio programático de mensagens
 
-  Integração com agentes conversacionais (compatíveis com Copilot)
+    -Integração com agentes conversacionais (compatíveis com Copilot)
 
-  Estrutura para disparos controlados e rastreáveis
+    -Estrutura para disparos controlados e rastreáveis
 
 
 ## Estrutura  
