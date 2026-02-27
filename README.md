@@ -12,7 +12,7 @@ Utilizar Copilot e Microsoft Graph API para distribuição de mensagens através
 
     -Integração com agentes conversacionais (compatíveis com o Microsoft Teams)
 
-    -Estrutura para disparos controlados e rastreáveis
+    -Estrutura para disparo de mensagens em lote
 
 
 ## Estrutura  
