@@ -19,7 +19,7 @@ Utilizar Copilot e Microsoft Graph API para distribuição de mensagens através
 ```bash
 Azure AD -> App Registrado
         │
-        │ OAuth 2.0 (Client Secret e informações do ambiente)
+        │ OAuth 2.0 (Client Secret)
         ▼
 Microsoft Graph API (Powershell)
         │
