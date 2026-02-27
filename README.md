@@ -33,3 +33,5 @@ Microsoft Graph API (Powershell)
                 ▼
       Agente (Copilot / App)
 ```
+
+[[Instale o Powershell na versão 5.1 ou acima]]
