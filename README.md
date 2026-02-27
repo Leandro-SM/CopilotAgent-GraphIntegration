@@ -34,4 +34,14 @@ Microsoft Graph API (Powershell)
       Agente (Copilot / App)
 ```
 
-[[Instale o Powershell na versão 5.1 ou acima]]
+### Requisitos:
+
+**Instale o Powershell na versão 5.1 ou acima**
+
+**Defina a ExecutionPolicy como RemoteSigned ou Bypass:**
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+**Instale os módulos Graph e Graph.Beta**
+    Install-Module Microsoft.Graph -Scope CurrentUser -Repository PSGallery -Force
+    Install-Module Microsoft.Graph.Beta -Repository PSGallery -Force
+
